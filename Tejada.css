@@ -1,3 +1,6 @@
+body{
+    background-color: yellow;
+}
 header{
     background-color:brown;
     color:coral;
@@ -14,7 +17,7 @@ nav li {
     margin-right: 20px;
 }
 nav a {
-    color: yellow;
+    color: green;
     text-decoration: none;
     padding: 5px;
 }
